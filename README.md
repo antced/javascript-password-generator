@@ -4,6 +4,8 @@
 
 ## Description
 
+https://antced.github.io/javascript-password-generator/
+
 JavaScript password generator that allows users to select different character types and randomize them into a password of their desired length. Character options include:
 
 - Lowercase letters
