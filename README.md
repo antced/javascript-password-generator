@@ -1,6 +1,6 @@
 # JavaScript Password Generator
 
-    ![screenshot](./images/screenshot.png)
+![screenshot](./images/screenshot.png)
 
 ## Description
 
